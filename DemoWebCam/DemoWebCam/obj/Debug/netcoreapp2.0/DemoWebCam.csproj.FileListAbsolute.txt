@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoWebCam\DemoWebCam\bin\Debug\netcoreapp2.0\DemoWebCam.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoWebCam\DemoWebCam\bin\Debug\netcoreapp2.0\DemoWebCam.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoWebCam\DemoWebCam\bin\Debug\netcoreapp2.0\DemoWebCam.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoWebCam\DemoWebCam\bin\Debug\netcoreapp2.0\DemoWebCam.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoWebCam\DemoWebCam\obj\Debug\netcoreapp2.0\DemoWebCam.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoWebCam\DemoWebCam\obj\Debug\netcoreapp2.0\DemoWebCam.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoWebCam\DemoWebCam\obj\Debug\netcoreapp2.0\DemoWebCam.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoWebCam\DemoWebCam\obj\Debug\netcoreapp2.0\DemoWebCam.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoWebCam\DemoWebCam\bin\Debug\netcoreapp2.0\DemoWebCam.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoWebCam\DemoWebCam\obj\Debug\netcoreapp2.0\DemoWebCam.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoWebCam\DemoWebCam\obj\Debug\netcoreapp2.0\DemoWebCam.pdb
